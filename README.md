@@ -1,2 +1,0 @@
-# ReactMeetingApp
-Created with CodeSandbox
